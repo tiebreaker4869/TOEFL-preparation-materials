@@ -12,3 +12,13 @@ unabashedly 毫不掩饰的
 staple of everyday life  生活必备品
 
 Saturn 土星
+
+poster 海报
+
+heliocentric 日心说的
+
+champion 支持
+
+carousel 旋转木马
+
+livestock 家畜
