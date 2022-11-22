@@ -14,38 +14,30 @@
 
 大部分时候是  agree/disagree, 像下面这个 
 
-```
-Do you agree or disagree with the following statement? Overall, the widespread use of the internet has a mostly positive effect on life in today’s world.
-```
+> Do you agree or disagree with the following statement? Overall, the widespread use of the internet has a mostly positive effect on life in today's world.
 
 #### paired-choice style
 
 有时候需要再两个对立的观点中选择(paired choice)，比如下面这个:
 
-```
-Some people like to travel with a companion. Other people prefer to travel alone. Which do you prefer? Use specific reasons and examples to support your choice.
-```
+> Some people like to travel with a companion. Other people prefer to travel alone. Which do you prefer? Use specific reasons and examples to support your choice.
 
 #### multiple-choice style
 
 也有时候是多选，比如:
 
-```
-The people we work with have many different characteristics and all of them affect the quality of our time at work. Of the following, what do you think is the most important quality for a boss or supervisor to have?
-
-- a serious attitude about their work 
-- a lot of related experience 
-- a tendency to always tell the truth 
-Use specific details and examples in your answer. 
-```
+> The people we work with have many different characteristics and all of them affect the quality of our time at work. Of the following, what do you think is the most important quality for a boss or supervisor to have?
+>
+> - a serious attitude about their work 
+> - a lot of related experience 
+> - a tendency to always tell the truth 
+> Use specific details and examples in your answer. 
 
 #### Good Idea style
 
 极少数情况下会是一个假设性的情景，比如:
 
-```
-The administrators of a university are revising their budget and have decided to change their funding priorities.  As a result, the university will now spend more money on sports and athletic facilities than they do on the campus libraries.  Do you think this is a good idea?  Why or why not? Use specific reasons and examples to explain your position.
-```
+> The administrators of a university are revising their budget and have decided to change their funding priorities.  As a result, the university will now spend more money on sports and athletic facilities than they do on the campus libraries.  Do you think this is a good idea?  Why or why not? Use specific reasons and examples to explain your position.
 
 评分：
 
@@ -181,6 +173,66 @@ Summarize the points made in the lecture, being sure to explain how they oppose 
 阅读材料中提出了关于某个问题的三个解答，lecturer 认为这些解答不会起作用。题目要求像下面这样:
 
 “Summarize the points made in the lecture, being sure to explain how they cast doubt on specific solutions presented in the reading passage.“
+
+### The Article
+
+文章以一个介绍性的段落开头，对主题的背景做介绍，作者阐述他的观点，或者指出存在一些问题。
+
+然后是三个 body paragraphs，每个 body paragraph 有一个 supporting argument，一个问题，或者一个解答。
+
+三分钟之后，article 会消失，但是听力播完会出现。
+
+### The Lecture
+
+三分钟结束之后阅读材料消失，你将会听到一段两到三分钟的短 lecture，讲述和阅读材料相同主题的内容，在 lecture 的开始，会听到 lecturer 的 main idea，这里他会对阅读材料中的 main argument 表示反对（对于 opposition style），或者说存在其他解决方案（p & s style），或者说阅读材料中提出的解决方案是不对的（s & p style）。
+
+lecture 的剩余部分会有三个 opposing argument/solutions/problems。这些会直接 challenge 阅读材料中的 argument，并且和阅读材料中出现的次序相同。
+
+ ### Taking Notes
+
+做笔记的时候把阅读和听力的 counterparts 联系起来即可。
+
+### Template
+
+文章应该由一个 introduction 和三个 body paragraphs 构成。
+
+#### introduction
+
+- The reading and the lecture are both about _____. 
+
+- While the author of the article argues that _____, the lecturer disputes the claims presented in the article.
+
+- His position is that _____.
+
+#### The Body Paragraphs
+
+- According to the reading _____.
+- The article mentions that ____.
+- This argument is challenged by the lecturer.
+- He claims that ____.
+- Additionally, he points out that ______.
+
+
+
+- Secondly, the author suggests ______.
+- In the article notes that _____.
+- The lecturer, however, asserts that ______.
+- He goes on to say that ______.
+
+
+
+- Finally, the author puts forth the idea that _____.
+- The author contends that ____.
+- In contrast, the lecturer’s stance is  _____.
+- He says that _____.
+
+不需要写结尾。
+
+### 注意事项
+
+- lecture summary 是文章最重要的部分，需要占据主体段的 60%，如果你要节省时间那么削减 article summary
+- 280 - 300 词是适宜的(多了应该没事？)
+- 避免直接从 reading 里面抄原文，尽量 paraphrase
 
 ## 参考资料
 
