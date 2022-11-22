@@ -158,6 +158,30 @@ This is because ...., and .....
 
 ## 综合写作
 
+### 介绍
+
+托福写作的第一题，首先要读一篇学术话题的文章，250 - 300 词，然后听一个 lecture，2 - 3 分钟，做出反对文章中观点的论述。你需要写一篇 300 字左右的文章来阐述两个材料之间的关系。
+
+阅读材料会再次出现，但是听力只可以听一遍。
+
+#### opposition style
+
+阅读材料提出一个主张并用三个 specific argument 来支持，lecturer 反对这个主张并且反驳三个 argument，题目要求会像下面这个样子。
+
+Summarize the points made in the lecture, being sure to explain how they oppose specific points made in the reading passage.
+
+#### problem & solutions style
+
+阅读材料提出了关于某个主题或者理论的三个问题，lecturer 提供了三个解答，题目要求像下面这样:
+
+“Summarize the points made in the lecture, being sure to explain how they answer the specific problems presented in the reading passage.”
+
+#### solutions & problem style
+
+阅读材料中提出了关于某个问题的三个解答，lecturer 认为这些解答不会起作用。题目要求像下面这样:
+
+“Summarize the points made in the lecture, being sure to explain how they cast doubt on specific solutions presented in the reading passage.“
+
 ## 参考资料
 
  [Youtube 视频](https://youtu.be/8FBQ18r5NpA)
