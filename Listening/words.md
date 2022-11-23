@@ -33,3 +33,9 @@ ballot 选票
 
 referenda 全民公决
 
+amino acid: building block of protein，氨基酸
+
+apparatus：器材
+
+electrode：电极
+
