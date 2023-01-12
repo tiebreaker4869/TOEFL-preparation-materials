@@ -215,7 +215,7 @@ lecture 的剩余部分会有三个 opposing argument/solutions/problems。这�
 
 
 - Secondly, the author suggests ______.
-- In the article notes that _____.
+- In the article the author notes that _____.
 - The lecturer, however, asserts that ______.
 - He goes on to say that ______.
 
@@ -223,7 +223,7 @@ lecture 的剩余部分会有三个 opposing argument/solutions/problems。这�
 
 - Finally, the author puts forth the idea that _____.
 - The author contends that ____.
-- In contrast, the lecturer’s stance is  _____.
+- In contrast, the lecturer's stance is  _____.
 - He says that _____.
 
 不需要写结尾。
