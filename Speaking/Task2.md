@@ -30,25 +30,21 @@ School Annoucement:
 
 In the Reading, we know that the university has decided to ...
 
-First, it claims that ...;
-
-Second, it will ....
+This is because ... and ...
 
 Student Letter / Email:
 
 In the letter/email, the student suggests that the university should/ should not do ... 
 
-First, ....;
-
-Second, ... ;
+This is because ... and ...
 
 Conversation:
 
 The woman/man agrees / disagrees with the plan/letter for 2 reasons.
 
-First, ...;
+To begin with, he/she points out that ...;
 
-Second, ...;
+Morever, he / she argues that ...;
 
 ## 注意事项
 

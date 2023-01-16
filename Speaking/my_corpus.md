@@ -30,7 +30,7 @@ For these 2 reasons, I prefer to spend time with my family and friends.
 
 Peer influence can be very strong. People share similar interests with their friends and spend a lot of time with them in daily life. Therefore, they will often listen to opinions from each others. For instance, when I have some troubles with my work, I will discuss with my friends, and I can always find solutions in this way.
 
-People can feel more relaxed with the accompony of  their friends. Most people will be nervous if they are surrounded by total strangers. But if they come with their friends, they will feel more comfortable.
+People can feel more relaxed with the accompany of  their friends. Most people will be nervous if they are surrounded by total strangers. But if they come with their friends, they will feel more comfortable.
 
 People can share feelings about the movies or concerts with their friends. For example, last year I went to cinema with my friends, and after the movie finished, I discussed the content of the movie with my friends, and it was also great fun.
 
@@ -119,6 +119,8 @@ Every year when it comes to winter, Beijing will suffer from very serious air po
 The poor air quality outside has not only brought us inconvenience of not being able to do outdoor exercise, but it has also become one of the reasons that will contribute to some of the serious illnesses such as lung cancer and heart disease.
 
 So we should (/not)
+
+
 
 ## Convenient
 
