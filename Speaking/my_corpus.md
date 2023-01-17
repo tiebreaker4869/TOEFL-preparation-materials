@@ -88,7 +88,7 @@ For these two reasons, .....
 
 ## Shopping
 
-I prefer to go shopping in a large store for the following reasons.
+I prefer to go shopping in a large store for following reasons.
 
 First, it is very convenient. You know, as a student, I'm very busy with my studies. Shopping in a large store helps me save time.
 
