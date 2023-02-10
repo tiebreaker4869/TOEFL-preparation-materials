@@ -148,7 +148,7 @@ This is because ...., and .....
 - There is no word limit.
 - In multiple choice questions you can totally ignore the choices you don’t pick.
 - The template works for all of the styles
-- You will not get punished for using the template. (有待考证，先拿 erater 试试)
+- You will not get punished for using the template.
 
 ## 综合写作
 
@@ -233,7 +233,7 @@ lecture 的剩余部分会有三个 opposing argument/solutions/problems。这�
 ### 注意事项
 
 - lecture summary 是文章最重要的部分，需要占据主体段的 60%，如果你要节省时间那么削减 article summary
-- 280 - 300 词是适宜的(多了应该没事？)
+- 280 - 300 词是足够的
 - 避免直接从 reading 里面抄原文，尽量 paraphrase
 
 ## 参考资料
