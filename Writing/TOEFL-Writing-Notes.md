@@ -1,5 +1,7 @@
 # TOEFL-Writing-Notes
 
+update: 在家考中用了一下这个板子，writing 28
+
 ## 独立写作
 
 ### 介绍
